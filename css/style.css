@@ -1,0 +1,20 @@
+.color-me{
+    color:greenyellow;
+}
+.btn-verdecito{
+    background-color: #96c93e;
+}
+.subrayado{
+    text-decoration-line: underline;
+  text-decoration-style: dotted;
+  
+
+}
+.fondoImagen{
+    
+    background-image: url('../images/hawaii.jpg');
+    height: 50vh;
+     
+}
+.alinearDerecha{
+text-align: right;}
